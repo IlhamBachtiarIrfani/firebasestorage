@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "601007925436",
+    "firebase_url": "https://papb-modul-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "papb-modul",
+    "storage_bucket": "papb-modul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601007925436:android:16237b097122204c9948b9",
+        "android_client_info": {
+          "package_name": "com.ilhamirfan.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601007925436-suv8ihkrk7hijr2br1ve0r7nif8rp09q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-VRJSYPApaH8wo4ZwX08kROBZnzN3sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601007925436-suv8ihkrk7hijr2br1ve0r7nif8rp09q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601007925436:android:c63e256187a73a3e9948b9",
+        "android_client_info": {
+          "package_name": "com.ilhamirfan.modulfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601007925436-7sdo3rib7b0j43v9qh6j1641kjt354dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ilhamirfan.modulfirebase",
+            "certificate_hash": "f9256ad2fdd5d3d6cf128afcc56194c63e93d1a5"
+          }
+        },
+        {
+          "client_id": "601007925436-suv8ihkrk7hijr2br1ve0r7nif8rp09q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-VRJSYPApaH8wo4ZwX08kROBZnzN3sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601007925436-suv8ihkrk7hijr2br1ve0r7nif8rp09q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601007925436:android:9802001781d2de859948b9",
+        "android_client_info": {
+          "package_name": "com.ilhamirfan.modulstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601007925436-suv8ihkrk7hijr2br1ve0r7nif8rp09q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-VRJSYPApaH8wo4ZwX08kROBZnzN3sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601007925436-suv8ihkrk7hijr2br1ve0r7nif8rp09q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
